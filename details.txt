@@ -1,0 +1,2 @@
+$(aws_instance.pappu.public_ip) 
+$(aws_instance.pappu.public_ip) 
